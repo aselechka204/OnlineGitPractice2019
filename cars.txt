@@ -6,3 +6,4 @@ Tesla S
 Mercedes S500
 Kia Optima
 Lexus Rx
+Subaru
